@@ -387,7 +387,7 @@ class GreyscaleShader extends FlxShader
         data.intensity.value = [0.0];
     }
 }
-}
+
 
 class BrightEffect extends Effect
 {
